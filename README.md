@@ -1,18 +1,20 @@
-# 🍽️ Crave
+# 🍔 Crave
 
-**Crave** is a clean, modern iOS app for discovering, saving, and cooking recipes you’ll actually want to make. Swipe to discover new meals, save your favorites, and dive into step‑by‑step recipes in a fast and polished environment.
+**Crave** is an iOS app for discovering, saving, and cooking recipes. The goal of the app is to make it easy to find meals you actually want to cook and to move smoothly from discovering recipes to cooking and enjoying them.
+
+The app uses a swipe-based discovery experience for browsing new recipes, allows users to save favorites, and provides clear, step-by-step recipe instructions along with nutrition information.
 
 ---
 
 ## ✨ Features
 
-* 🔥 **Swipe to Discover** – Tinder‑style recipe discovery
-* ❤️ **Save Favorites** – Keep recipes you love in one place
-* 📋 **Detailed Recipes** – Overview, ingredients, instructions, and nutrition
-* 🧮 **Nutrition Facts** – Calories & macros at a glance
-* 👤 **User Profiles** – Simple account and profile management
-* 🧭 **Tab‑based Navigation** – Discover · Saved · Profile
-* 🚀 **Built to Scale** – A flexible foundation for powerful new features on the way
+* **Swipe to Discover** – Tinder‑style recipe discovery
+* **Save Favorites** – Keep recipes you love in one place
+* **Detailed Recipes** – Overview, ingredients, instructions, and nutrition
+* **Nutrition Facts** – Calories & macros at a glance
+* **User Profiles** – Simple account and profile management
+* **Tab‑based Navigation** – Discover · Saved · Profile
+* **Built to Scale** – Designed with a flexible foundation to support future updates
 ---
 
 ## 🧱 Built With
@@ -32,6 +34,8 @@
 * Profile & Settings
 
 ---
+
+## 📸 Screenshots
 
 <p align="center">
   <img src="Screenshots/welcome.png" width="240" />
